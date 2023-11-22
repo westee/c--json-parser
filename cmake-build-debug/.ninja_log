@@ -1,0 +1,7 @@
+# ninja log v5
+1	123	7222577271671988	build.ninja	41316e7594bb1e43
+0	432	7222577276503648	CMakeFiles/json.dir/src/json_node.cpp.obj	70d7eec9118fc8ae
+4	448	7222577276673775	CMakeFiles/main.dir/main.cpp.obj	8a13b2c8b08ff6f0
+2	558	7222577277763821	CMakeFiles/json.dir/src/json_parser.cpp.obj	29c7c01dc6d51122
+558	687	7222577279072340	libjson.a	44a3e9d9c74db436
+687	796	7222577280130756	main.exe	a60f60fd3f14427f
